@@ -12,18 +12,25 @@ Keisotsu (Combi) [+1]
 O-Yoroi (any) [+1]  
 Oniwaban (BSG) [+1]
 
-### CoC Options
-Kempai (Combi, BSG)
+### Special
 
-### TO/Camo
+| CoC | HoloProjector |
+|:---:|:-------------:|
+| Kempai (Combi, BSG) | n/a |
 
-| Infiltrating TO | Infiltrating Camo |	DZ TO |	DZ Camo |	Holo |
-|:---------------:|:-----------------:|:-----:|:-------:|:----:|
-| Ninja (Combi, Sniper, Tac Bow, KHD, AHD, FO)  
-Saito Togan (Combi & Smoke, Specialist)  
-Oniwaban (BSG, SMG)  
-Shinobu (Combi & Nanopulsar & Smoke) | n/a | n/a | Ryuken-9 (HRL & Mines) | n/a |
+### Camo
 
-(Infiltration includes FD)
+| Sup. Infiltration | Infiltration | FD2 |	FD1 |	DZ |
+|:-----------------:|:------------:|:---:|:----:|:--:|
+| n/a | n/a | n/a | n/a | Ryuken-9 (HRL & Mines) |
+
+
+### TO Camo
+
+| Sup. Infiltration | Infiltration | FD2 |	FD1 |	DZ |
+|:-----------------:|:------------:|:---:|:----:|:--:|
+| Oniwaban (BSG, SMG)<br>Shinobu (Combi & Nanopulsar & Smoke) | Ninja (Combi, Sniper, Tac Bow, KHD, AHD, FO)<br>Saito Togan (Combi & Smoke, Specialist) | n/a | n/a | n/a |
+
+(ITSX MI buff not included)
 
 Last Updated 17/01/2019
