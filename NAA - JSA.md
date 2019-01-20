@@ -1,8 +1,8 @@
 # JSA
 
-| TO | AD (max) | MSV2 | Smoke | Impersonation | Sup. Infiltration | HoloProjector | TAGs | Strategos |
-|:--:|:--------:|:----:|:-----:|:-------------:|:-----------------:|:-------------:|:----:|:---------:|
-| ![tick](/images/tick.png "Yes") | ![cross](/images/cross.png "No") | ![tick](/images/tick.png "Yes") | ![tick](/images/tick.png "Yes") | ![cross](/images/cross.png "No") | ![tick](/images/tick.png "Yes") | ![cross](/images/cross.png "No") | ![tick](/images/tick.png "Yes") | - |
+| TO | AD (max) | MSV2 | Smoke | Impersonation | Sup. Infiltration | HoloProjector | TAGs | Strategos (max) |
+|:--:|:--------:|:----:|:-----:|:-------------:|:-----------------:|:-------------:|:----:|:---------------:|
+| ![tick](/images/tick.png "Yes") | n/a | ![tick](/images/tick.png "Yes") | ![tick](/images/tick.png "Yes") | ![cross](/images/cross.png "No") | ![tick](/images/tick.png "Yes") | ![cross](/images/cross.png "No") | ![tick](/images/tick.png "Yes") | n/a |
 
 ### Lt Options (loadout) [SWC]
 Kuroshi Rider (any)  
@@ -17,8 +17,6 @@ Kempai (Combi, BSG)
 
 ### TO/Camo
 
-Infiltration includes FD
-
 | Infiltrating TO | Infiltrating Camo |	DZ TO |	DZ Camo |	Holo |
 |:---------------:|:-----------------:|:-----:|:-------:|:----:|
 | Ninja (Combi, Sniper, Tac Bow, KHD, AHD, FO)  
@@ -26,5 +24,6 @@ Saito Togan (Combi & Smoke, Specialist)
 Oniwaban (BSG, SMG)  
 Shinobu (Combi & Nanopulsar & Smoke) | n/a | n/a | Ryuken-9 (HRL & Mines) | n/a |
 
+(Infiltration includes FD)
 
 Last Updated 17/01/2019
