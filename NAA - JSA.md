@@ -19,8 +19,8 @@ Kempai (Combi, BSG)
 
 Infiltration includes FD
 
-| Infiltrating TO | Infiltrationg Camo |	DZ TO Could Be |	DZ Camo Could Be |	Holo Could Be |
-|-----------------|--------------------|-----------------|-------------------|----------------|
+| Infiltrating TO | Infiltrating Camo |	DZ TO |	DZ Camo |	Holo |
+|:---------------:|:-----------------:|:-----:|:-------:|:----:|
 | Ninja (Combi, Sniper, Tac Bow, KHD, AHD, FO)  
 Saito Togan (Combi & Smoke, Specialist)  
 Oniwaban (BSG, SMG)  
