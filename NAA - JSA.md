@@ -6,9 +6,13 @@
 
 ### Lt Options (loadout) [SWC]
 Kuroshi Rider (any)  
-Neko Oyama (any)
 Domaru (Chain Rifle)  
+Neko Oyama (any)  
 Keisotsu (Combi) [+1]  
 O-Yoroi (any) [+1]  
+Oniwaban (BSG) [+1]
+
+### CoC Options
+Kempai (Combi, BSG)
 
 Last Updated 17/01/2019
