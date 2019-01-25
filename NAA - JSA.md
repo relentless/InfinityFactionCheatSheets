@@ -28,14 +28,14 @@ Oniwaban (BSG) [+1 SWC]
 
 #### Camo
 
-| Sup. Infiltration | Infiltration | FD2 |	FD1 | DZ |
-|:-----------------:|:------------:|:---:|:----:|:--:|
-| n/a | n/a | n/a | n/a | `Ryuken-9 (HRL & Mines)` |
+| Sup. Infiltration | Infiltration | FD2 |	FD1 | `______________DZ___________` |
+|:-----------------:|:------------:|:---:|:----:|:---------:|
+| n/a | n/a | n/a | n/a | Ryuken-9 (HRL & Mines) |
 
 
 #### TO Camo
 
-| --------Superior_Infiltration-------- | ----------------Infiltration---------------- | FD2 |	FD1 |	DZ |
+| --------Superior_Infiltration-------- | ----------------Infiltration---------------- | FD2 |	FD1 | DZ |
 |:-----------------:|:------------:|:---:|:----:|:--:|
 | Oniwaban (BSG, SMG)<br>Shinobu (Combi & Nanopulsar & Smoke) | Ninja (Combi, Sniper, Tac Bow, KHD, AHD, FO)<br>Saito Togan (Combi & Smoke, Specialist) | n/a | n/a | n/a |
 
