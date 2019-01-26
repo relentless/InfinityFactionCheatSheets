@@ -24,7 +24,7 @@ Neema Saatar (any) - Advanced Command
 
 #### Special
 
-| \_\_\_\_\_\__Chain_Of_Command\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_HoloProjector\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_AD\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| \_\_\_\_\_\__Chain_Of_Command\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_HoloProjector\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_AD\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
 |--|--|--|
 | Kaeltar (any with SymbioMates);<br>Taqeul (any) | L2: Kotail (Combi, BSG, Spitfire, E/M Grenades) | AD2: Cube Jager (SMG, BSG, Paramedic);<br>AD4: Gao-Tarsos (Combi, BSG, HMG, D-Charges, Paramedic) |
 
