@@ -6,9 +6,9 @@
 |:--:|:--------:|:----:|:-----:|:-------------:|:-----------------:|:-------------:|:----:|:---------------:|
 | ![tick](/images/tick.png "Yes") | n/a | ![tick](/images/tick.png "Yes") | ![tick](/images/tick.png "Yes") | ![cross](/images/cross.png "No") | ![tick](/images/tick.png "Yes") | ![cross](/images/cross.png "No") | ![tick](/images/tick.png "Yes") | n/a |
 
-| Strengths	| Weaknesses | Noteable_Units | General_Notes |
+| \_\_\_\_\_Strengths\_\_\_\_\_	| \_\_\_\_\_\_\_Weaknesses\_\_\_\_\_\_\_ | Noteable_Units | General_Notes |
 |-----------|------------|----------------|---------------|
-| Close Combat<br>Alpha Striking<br>Much TO | LT Options<br>AROs<br>Long Range Weapons<br>Staying Power | Oniwaban<br>Saito Togan<br>YoJimbo | Glass Cannon |
+| Close Combat;<br>Alpha Striking;<br>Much TO | LT Options;<br>AROs;<br>Long Range Weapons;<br>Staying Power | Oniwaban;<br>Saito Togan;<br>YoJimbo | Glass Cannon |
 
 ## Units
 
