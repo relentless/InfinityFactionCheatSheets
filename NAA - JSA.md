@@ -30,7 +30,7 @@ Oniwaban (BSG) [+1 SWC]
 
 | Sup. Infiltration | Infiltration | FD2 |	FD1 | DZ |
 |:-----------------:|:------------:|:---:|:----:|:--:|
-| n/a | n/a | n/a | n/a | Ryuken-9 (HRL & Mines) |
+| n/a | n/a | n/a | n/a | Ryuken-9 (HRL & Mines)<br>![spacer](/images/spacer_200px.png) |
 
 
 #### TO Camo
