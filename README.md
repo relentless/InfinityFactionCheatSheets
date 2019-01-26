@@ -2,7 +2,7 @@
 
 ## PanOciania
 
-Vanilla  
+PanOceania  
 Neoterran Capitaline Army  
 Shock Army of Acontecimento  
 Military Orders  
@@ -14,3 +14,7 @@ Druze Byram Security
 [Japanese Secessionist Army](./NAA/JSA.md)  
 Ikari Company  
 Starco.  
+
+## Tohaa
+
+[Tohaa](./Tohaa/Tohaa.md)
