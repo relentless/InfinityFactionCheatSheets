@@ -37,7 +37,7 @@ Oniwaban (BSG) [+1 SWC]
 
 | \_\_\_\_\_\_\_\_\_\_Superior_Infiltration\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Infiltration\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | FD2 |	FD1 | DZ |
 |-----------------------|--------------|-----|------|----|
-| Oniwaban (BSG, SMG)<br>Shinobu (Combi & Nanopulsar & Smoke) | Ninja (Combi, Sniper, Tac Bow, KHD, AHD, FO)<br>Saito Togan (Combi & Smoke, Specialist) | n/a | n/a | n/a |
+| Oniwaban (BSG, SMG)<br>Shinobu (Combi & Nanopulsar & Smoke) | Ninja (Combi, Sniper, Tac Bow, KHD, AHD, FO)<br>Saito Togan (Combi & Smoke, Specialist) | none | none | none |
 
 (ITSX MI buff not included - or relevant)
 
