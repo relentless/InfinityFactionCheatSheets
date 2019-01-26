@@ -11,6 +11,6 @@ Varuna
 ## Non-Aligned Armies
 
 Druze Byram Security  
-[Japanese Secessionist Army](../NAA-JSA.md)  
+[Japanese Secessionist Army](./NAA/JSA.md)  
 Ikari Company  
 Starco.  
