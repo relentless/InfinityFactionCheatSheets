@@ -31,7 +31,7 @@ L2: Daoying (any)
 
 | \_Sup_Infiltration\_ | \_\_\_\_\_\_Infiltration\_\_\_\_\_\_ | \_FD2\_ |	\_FD1\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_DZ\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
 |--|--|--|--|--|
-| none | Zhencha (BSG, SMG, DEP, Mines, AHD) | none | none | Daoying (Lt, BSG, Sniper, Hacker, Mines);<br>Daoying Mine |
+| none | Zhencha (BSG, SMG, DEP, Mines, AHD) | none | none | MI: Daoying (Lt, BSG, Sniper, Hacker, Mines);<br>MI: Daoying Mine |
 
 
 #### TO Camo
@@ -40,6 +40,6 @@ L2: Daoying (any)
 |--|--|--|--|--|
 | none | none | none | none | Hac Tao (HMG, ML, KHD, BSG, Multi Rifle, AHD, KHD) |
 
-(ITSX MI buff not included - or relevant)
+(ITSX MI buff not included)
 
 Last Updated 27/01/2019
