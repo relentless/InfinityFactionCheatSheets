@@ -12,7 +12,7 @@
 
 ## Units
 
-#### Lieutenants
+#### Lieutenants [[Army]](http://army.infinitythegame.com/index.html?l=EwBgLAPgzCIRBGApA4YpLANhAdiQIQCcKwArGZlkZcaRVUWISag9kRgVvctlswL42wKri7Dyo7LkGU2IKmAAcheeUXYwJAgkVseHfAVGowzbAmQnS5qgi6m0FrKiQABT0A==)
 Zhanshi (Combi)  
 Mowang (any) [-1 SWC]  
 Shang Ji (Combi & LFT)  
