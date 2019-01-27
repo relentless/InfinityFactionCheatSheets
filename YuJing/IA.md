@@ -4,42 +4,41 @@
 
 | TO | AD (max) | MSV2 | Smoke | Impersonation | Sup. Infiltration | HoloProjector | TAGs | Strategos (max) |
 |:--:|:--------:|:----:|:-----:|:-------------:|:-----------------:|:-------------:|:----:|:---------------:|
-| ![tick](/images/tick.png "Yes") | AD4:Combat_Jump | ![tick](/images/tick.png "Yes") | ![tick](/images/tick.png "Yes") | ![cross](/images/cross.png "No") | ![cross](/images/cross.png "No") | ![tick](/images/tick.png "Yes") | ![tick](/images/tick.png "Yes") | none |
+| ![tick](/images/tick.png "Yes") | AD4:Combat_Jump | ![tick](/images/tick.png "Yes") | ![cross](/images/cross.png "No") | ![cross](/images/cross.png "No") | ![cross](/images/cross.png "No") | ![tick](/images/tick.png "Yes") | ![tick](/images/tick.png "Yes") | none |
 
 | \_\_\_\_Strengths\_\_\_\_	| \_\_\_\_\_\_Weaknesses\_\_\_\_\_\_ | \_Noteable_Units\_ | \_General_Notes\_ |
 |--|--|--|--|
-| Resilient;<br>Barely hackable;<br>Triads;<br>Eclipse Smoke | No great shooters;<br>Can't really hack<br>Fire vulnerable;<br>Max 3-man link | SymbioMates;<br>Makaul (eclipse);<br>Kerail Preceptor | \#ThreeTheTohaa |
+| High order single group;<br>Exploding AD;<br>Good HI | Expensive | Liu Xing;<br>Mowang | Single group HI shooters |
 
 ## Units
 
 #### Lieutenants
-Kamael (Combi)  
-Rasail (Combi, Spitfire, Viral Combi)  
-Sakiel (Combi)  
-Sukeul (K1 Combi & D-Charges)  
-Gao-Rael (Combi)  
-Taqeul (any) - Advanced Command  
-Ectros (Viral Combi)  
-Neema Saatar (any) - Advanced Command  
+Zhanshi (Combi)  
+Mowang (any) [-1 SWC]  
+Shang Ji (Combi & LFT)  
+Yan Huo (Multi Rifle, HRMC)  
+Zuyong (Combi, HMG) [-0.5 SWC]  
+Guija (any) [+1 SWC]  
+L2: Daoying (any)
 
 #### Special
 
-| \_\_\_\_\_\__Chain_Of_Command\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_HoloProjector\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_AD\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| \_\_\_\_\_\__Chain_Of_Command\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_HoloProjector\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_AD\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
 |--|--|--|
-| Kaeltar (any with SymbioMates);<br>Taqeul (any) | L2: Kotail (Combi, BSG, Spitfire, E/M Grenades) | AD2: Cube Jager (SMG, BSG, Paramedic);<br>AD4: Gao-Tarsos (Combi, BSG, HMG, D-Charges, Paramedic) |
+| Haidao (Combi & D-Charges);<br>Tai Sheng (any) | L2: Lu Duan (S4) (Mk12 & HFT) | AD4: Liu Xing (Combi, BSG, Spitfire, Specialist, AHD) |
 
 #### Camo
 
-| \_Sup_Infiltration\_ | \_\_\_\_\_\_Infiltration\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_FD2\_\_\_\_\_\_\_\_\_\_\_\_\_ |	\_FD1\_ | \_DZ\_ |
+| \_Sup_Infiltration\_ | \_\_\_\_\_\_Infiltration\_\_\_\_\_\_ | \_FD2\_ |	\_FD1\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_DZ\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
 |--|--|--|--|--|
-| none | Igao (Combi, BSG);<br>Clipsos Mine | Liberto (LSG & Mines, SMG);<br>Liberto Mine | none | none |
+| none | Zhencha (BSG, SMG, DEP, Mines, AHD) | none | none | Daoying (Lt, BSG, Sniper, Hacker, Mines);<br>Daoying Mine |
 
 
 #### TO Camo
 
-| \_Superior_Infiltration\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Infiltration\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_FD2\_ |	\_FD1\_ | \_DZ\_ |
+| \_Superior_Infiltration\_ | \_Infiltration\_ | \_FD2\_ |	\_FD1\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_DZ\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
 |--|--|--|--|--|
-| none | Clipsos (Combi, BSG, Sniper, Mines, FO) | none | none | none |
+| none | none | none | none | Hac Tao (HMG, ML, KHD, BSG, Multi Rifle, AHD, KHD) |
 
 (ITSX MI buff not included - or relevant)
 
