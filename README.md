@@ -6,7 +6,7 @@
 * Neoterran Capitaline Army  
 * Shock Army of Acontecimento  
 * Military Orders  
-* Varuna  
+* [Varuna](.r/PanO/Varuna.md)  
 
 ### Yu Jing
 
