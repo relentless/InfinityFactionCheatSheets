@@ -15,12 +15,12 @@
 #### Lieutenants
 Fusilier (Combi)  
 Kamau (Combi)  
-Zulu Cobra (Combi & Jammer - Camo)  
+Zulu Cobra (Combi & Jammer) [Camo]  
 Orc (Multi/HMG)  
 Orc - Varuna (HMG)  
 Squalo (Multi HMG)  
-Cutter (any - TO Camo) [0.5 SWC]  
-Croc Man (Combi - TO Camo) [2 SWC]  
+Cutter (any) [TO Camo] [0.5 SWC]  
+Croc Man (Combi) [TO Camo] [2 SWC]  
 
 #### Special
 
@@ -37,7 +37,7 @@ Croc Man (Combi - TO Camo) [2 SWC]
 
 #### TO Camo
 
-| \_Superior_Infiltration\_ | \_\_\_\_\_\_\_\_\_\_\_Infiltration\_\_\_\_\_\_\_\_\_\_\_ | \_FD2\_ |	\_FD1\_ | \_\_\_DZ\_\_\_ |
+| \_Sup_Infiltration\_ | \_\_\_\_\_\_\_\_\_\_\_Infiltration\_\_\_\_\_\_\_\_\_\_\_ | \_FD2\_ |	\_FD1\_ | \_\_\_DZ\_\_\_ |
 |--|--|--|--|--|
 | none | Croc Man (Combi, BSG, Sniper, Mines, DepRep, FO) | none | none | Cutter (Multi HMG) |
 
