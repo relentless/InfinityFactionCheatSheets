@@ -1,4 +1,4 @@
-# varuna
+# Varuna
 
 ## Overview
 
