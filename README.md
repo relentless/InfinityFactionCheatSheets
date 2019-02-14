@@ -1,6 +1,6 @@
 ## Infinity Faction Cheat Sheets
 
-### PanOciania
+### PanOceania
 
 * PanOceania  
 * Neoterran Capitaline Army  
