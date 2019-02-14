@@ -24,20 +24,20 @@ Croc Man (Combi - TO Camo) [2 SWC]
 
 #### Special
 
-| \__Chain_Of_Command\_ | \_\_\_HoloProjector\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_AD\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| \__Chain_Of_Command\_ | \_\_\_HoloProjector\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_AD\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
 |--|--|--|
 | none | Decoy: Healot | AD2: Echo Bravo (BSG, LRL, Red Fury, AHD, WildParrot, Paramedic) |
 
 #### Camo
 
-| \_Sup_Infiltration\_ | \_\_\_\_Infiltration\_\_\_\_ | \_FD2\_ |	\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_FD1\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_DZ\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| \_Sup_Infiltration\_ | \_\_\_Infiltration\_\_\_ | \_FD2\_ |	\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_FD1\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_DZ\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
 |--|--|--|--|--|
 | none | Croc Man Mine | none | Zulu Cobra (Spitfire, Jammer, Combi, Breaker Combi, Shock Marksman Rifle, Sensor, KHD, FO) | Healot (Sniper, Shock Marksman Rifle, Red Fury, SMG, LRL) |
 
 
 #### TO Camo
 
-| \_Superior_Infiltration\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_Infiltration\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_FD2\_ |	\_FD1\_ | \_DZ\_ |
+| \_Superior_Infiltration\_ | \_\_\_\_\_\_\_\_\_\_\_Infiltration\_\_\_\_\_\_\_\_\_\_\_ | \_FD2\_ |	\_FD1\_ | \_\_\_DZ\_\_\_ |
 |--|--|--|--|--|
 | none | Croc Man (Combi, BSG, Sniper, Mines, DepRep, FO) | none | none | Cutter (Multi HMG) |
 
